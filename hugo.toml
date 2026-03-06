@@ -1,0 +1,25 @@
+baseURL = 'https://divorcecrusher.ca/'
+languageCode = 'en-ca'
+title = 'DIVORCE CRUSHER'
+theme = 'crusher'
+
+[params]
+  tagline = "Case Law. Cold Facts. Dad Wins."
+  description = "Real case law. Real strategies. For dads who refuse to lose."
+  author = "DIVORCE CRUSHER"
+  disclaimer = "THIS IS NOT FUCKING LEGAL ADVICE. Everything on this site is publicly available information from court decisions that anyone can look up. If you read this, do your own research, apply it yourself, and it works — that's YOUR effort, YOUR victory, YOUR win. We didn't do shit. If you lose and try to blame us, we will sue you. We might sue you anyway just for reading this. We are not lawyers. We are not your lawyers. There is no solicitor-client relationship here. There never was. There never will be. You are a grown adult reading publicly available court decisions on the internet. Act accordingly. Consult a licensed attorney in your jurisdiction before taking any legal action."
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[pagination]
+  pagerSize = 10
+
+[outputs]
+  home = ["HTML", "RSS"]
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5

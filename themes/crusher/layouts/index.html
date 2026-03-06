@@ -1,0 +1,26 @@
+{{ define "main" }}
+<section class="hero">
+  <h1>DIVORCE<span class="crush">CRUSHER</span></h1>
+  <p class="hero-tagline">Case Law. Cold Facts. Dad Wins.</p>
+  <p class="hero-sub">Real Canadian court decisions where fathers won. Exposed. Documented. Weaponized for YOU.</p>
+</section>
+
+<section class="latest">
+  <h2>Latest Intel</h2>
+  {{ range first 10 (where .Site.RegularPages "Section" "posts") }}
+  <article class="post-preview">
+    <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+    <time>{{ .Date.Format "January 2, 2006" }}</time>
+    {{ if .Params.category }}<span class="category">{{ .Params.category }}</span>{{ end }}
+    <p>{{ .Summary }}</p>
+    <a href="{{ .Permalink }}" class="read-more">Read the full breakdown →</a>
+  </article>
+  {{ end }}
+</section>
+
+<section class="cta-section">
+  <h2>We're Building This For You</h2>
+  <p>Every article is backed by real court decisions from our database of thousands of Canadian cases. We're building an interactive platform where dads can get case-law-grounded answers to their specific situations.</p>
+  <p><strong>Tell us what you're fighting.</strong> Your feedback shapes what we write next.</p>
+</section>
+{{ end }}

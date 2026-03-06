@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on DIVORCE CRUSHER</title>
+    <link>http://192.168.4.90:8095/tags/</link>
+    <description>Recent content in Tags on DIVORCE CRUSHER</description>
+    <generator>Hugo</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Thu, 05 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://192.168.4.90:8095/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alienation</title>
+      <link>http://192.168.4.90:8095/tags/alienation/</link>
+      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://192.168.4.90:8095/tags/alienation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Custody</title>
+      <link>http://192.168.4.90:8095/tags/custody/</link>
+      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://192.168.4.90:8095/tags/custody/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dad</title>
+      <link>http://192.168.4.90:8095/tags/dad/</link>
+      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://192.168.4.90:8095/tags/dad/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Parental</title>
+      <link>http://192.168.4.90:8095/tags/parental/</link>
+      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://192.168.4.90:8095/tags/parental/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Self-Represented</title>
+      <link>http://192.168.4.90:8095/tags/self-represented/</link>
+      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://192.168.4.90:8095/tags/self-represented/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wins</title>
+      <link>http://192.168.4.90:8095/tags/wins/</link>
+      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://192.168.4.90:8095/tags/wins/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

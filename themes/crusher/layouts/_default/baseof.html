@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>
+  {{ partial "head.html" . }}
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <a href="/" class="logo">DIVORCE<span class="crush">CRUSHER</span></a>
+      <p class="tagline">{{ .Site.Params.tagline }}</p>
+      <nav>
+        <a href="/">Home</a>
+        <a href="/posts/">Articles</a>
+        <a href="/about/">About</a>
+        <a href="/disclaimer/">Disclaimer</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    {{ block "main" . }}{{ end }}
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="disclaimer">{{ .Site.Params.disclaimer }}</div>
+      <p>&copy; {{ now.Year }} {{ .Site.Title }}. All case citations from publicly available court records.</p>
+      <p class="feedback">Fighting in court right now? <strong>Tell us what you need.</strong> We're building this for YOU.</p>
+    </div>
+  </footer>
+</body>
+</html>
