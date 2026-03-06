@@ -253,6 +253,15 @@ nav a:hover { color: var(--accent); }
 }
 .post-content td { color: var(--text); }
 
+/* Ads */
+.ad-slot {
+  margin: 30px 0;
+  text-align: center;
+  min-height: 90px;
+}
+.ad-slot[data-position="post-top"] { margin-bottom: 30px; }
+.ad-slot[data-position="post-bottom"] { margin-top: 30px; }
+
 /* Responsive */
 @media (max-width: 600px) {
   .hero h1 { font-size: 2.5em; }

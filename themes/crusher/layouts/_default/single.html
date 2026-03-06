@@ -9,9 +9,13 @@
     </div>
   </header>
 
+  {{ partial "ad.html" (dict "Site" .Site "position" "post-top" "slot" "") }}
+
   <div class="post-content">
     {{ .Content }}
   </div>
+
+  {{ partial "ad.html" (dict "Site" .Site "position" "post-bottom" "slot" "") }}
 
   <div class="post-disclaimer">
     <p>{{ .Site.Params.disclaimer }}</p>

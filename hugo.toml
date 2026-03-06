@@ -7,6 +7,11 @@ theme = 'crusher'
   tagline = "Case Law. Cold Facts. Dad Wins."
   description = "Real case law. Real strategies. For dads who refuse to lose."
   author = "DIVORCE CRUSHER"
+  # Google AdSense — paste your publisher ID here once approved
+  # Apply at https://www.google.com/adsense/ (site must be live first)
+  adsense_id = "ca-pub-1474933260970132"
+  ads_enabled = true
+
   disclaimer = "THIS IS NOT FUCKING LEGAL ADVICE. Everything on this site is publicly available information from court decisions that anyone can look up. If you read this, do your own research, apply it yourself, and it works — that's YOUR effort, YOUR victory, YOUR win. We didn't do shit. If you lose and try to blame us, we will sue you. We might sue you anyway just for reading this. We are not lawyers. We are not your lawyers. There is no solicitor-client relationship here. There never was. There never will be. You are a grown adult reading publicly available court decisions on the internet. Act accordingly. Consult a licensed attorney in your jurisdiction before taking any legal action."
 
 [taxonomies]

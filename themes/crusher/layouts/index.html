@@ -17,6 +17,8 @@
   </div>
 </section>
 
+{{ partial "ad.html" (dict "Site" .Site "position" "home-mid" "slot" "") }}
+
 <section class="latest">
   <h2>Latest Intel</h2>
   {{ range first 10 .Site.RegularPages.ByDate.Reverse }}
