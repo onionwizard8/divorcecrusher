@@ -253,6 +253,60 @@ Fathers who are victims of domestic violence **avoid seeking safety** because th
 
 These aren't opinions. These are government studies, peer-reviewed research, and official statistics. Print them. Cite them. Bring them to court.
 
+---
+
+## NOW WHAT? THE DOCUMENTATION PROTOCOL
+
+You've read the stats. You know the system is stacked. Here's the part that actually matters: **what you do with this knowledge determines whether you survive it.**
+
+### DOCUMENT EVERYTHING
+
+Not tomorrow. Not when things get bad. **Right now.**
+
+1. **Every text message, email, and voicemail** — screenshot, export, back up to cloud storage. Don't rely on your phone surviving the process.
+
+2. **Every interaction at exchanges** — date, time, location, what was said, who was present. If your province allows one-party consent recording, record every exchange. Check your jurisdiction first.
+
+3. **Every time she denies access** — document the court order, the scheduled time, what happened, and your response. Every. Single. Time.
+
+4. **Every dollar of child support paid** — bank transfers, e-transfers, cheques. Keep a spreadsheet with dates, amounts, and confirmation numbers.
+
+5. **Every interaction with the children** — what you did together, their emotional state, what they said. Judges need to see that you are present, engaged, and stable.
+
+6. **Your own mental state** — this is the one nobody tells you. Write down your thoughts. Your fears. Your frustrations. Not for court — for YOU. When you're drowning at 2am, your own notes from last week remind you that you're still standing. They also help you stay calm when you need to be calm.
+
+### ORGANIZE YOUR DOCUMENTATION
+
+A box of screenshots and rage texts won't help you in court. Organize by:
+
+- **Chronological timeline** — what happened, when, with evidence attached
+- **Category** — access denial, financial, communications, children's wellbeing
+- **Exhibits** — number each piece of evidence, create an index
+- **Affidavit-ready** — every fact should be something you can swear to under oath
+
+### USE AI TO HELP YOU STAY CALM AND COMPLIANT
+
+This is critical. When she sends you a text designed to make you explode — and she will — **do not respond immediately.** Instead:
+
+1. **Copy the message into an AI tool** (ChatGPT, Claude, whatever you have access to)
+2. **Ask it**: "I received this message in a custody dispute. Help me draft a calm, factual, court-appropriate response that protects my position."
+3. **Review the response.** Remove anything emotional. Keep it factual.
+4. **Wait at least 30 minutes** before sending anything.
+
+The AI doesn't get angry. It doesn't get baited. It doesn't write things at 2am that get read aloud in court at 2pm. **Use it.**
+
+Every message you send is a potential exhibit. Every word you write could be read by a judge. Write like a judge is reading — because one day, they will be.
+
+### THE CALM DAD WINS
+
+The system expects you to lose your temper. Her lawyer expects it. Maybe she's counting on it. The judge is watching for it. **Don't give them the satisfaction.**
+
+The dad who documents, organizes, stays calm, cites the law, and shows up prepared is the dad the court has to take seriously. The dad who sends angry texts at midnight is the dad who loses.
+
+You know the stats now. You know the system. The question is: are you going to fight smart, or fight angry?
+
+Fight smart.
+
 Tell us what you're fighting. We're building this for YOU.
 
 ---
