@@ -172,6 +172,87 @@ Compare this to any other court-ordered payment in existence. Spousal support ca
 
 These aren't opinions. These are government studies, peer-reviewed research, and official statistics. Print them. Cite them. Bring them to court.
 
+---
+
+## FALSE ALLEGATIONS IN FAMILY COURT
+
+### How Often Are Allegations Fabricated?
+
+| Context | False Allegation Rate | Source |
+|---|---|---|
+| General child abuse referrals | 2-8% | Multiple studies reviewed in *Child Abuse & Neglect* |
+| Emergency room referrals | 6% | Peer-reviewed clinical studies |
+| **Allegations arising in custody disputes** | **36-56%** | Thoennes & Tjaden, 1990, *Behavioral Sciences & the Law* |
+| Deliberately false allegations in custody cases | ~4% deliberately fabricated | Trocmé & Bala, 2005, *Child Abuse & Neglect* |
+
+**Source**: Thoennes & Tjaden, "The extent, nature, and validity of sexual abuse allegations in custody/visitation disputes," *Behavioral Sciences & the Law*, 1990. Trocmé & Bala, "False allegations of abuse and neglect when parents separate," *Child Abuse & Neglect*, 2005.
+
+**What this means**: The rate of unsubstantiated or false allegations **skyrockets** in custody disputes — from single digits in normal contexts to 36-56% during custody battles. The system knows this and does nothing to penalize false accusers.
+
+---
+
+## DOMESTIC VIOLENCE AGAINST FATHERS: THE HIDDEN EPIDEMIC
+
+### Canadian Government Data
+
+| Statistic | Data | Source |
+|---|---|---|
+| Men who experienced IPV in their lifetime | **36%** | Statistics Canada, General Social Survey |
+| Women who experienced IPV in their lifetime | 44% | Statistics Canada |
+| **Male IPV victims who reported to police** | **14%** | Statistics Canada, 2019 |
+| Female IPV victims who reported to police | 22% | Statistics Canada, 2019 |
+| Overall IPV victims who did NOT report | **80%** | Statistics Canada |
+
+**Source**: Department of Justice Canada, *Male Survivors of Intimate Partner Violence*, Victims of Crime Research Digest No. 14; Statistics Canada, General Social Survey on Victimization.
+
+### The System is Rigged Against Male Victims
+
+| Statistic | Data | Source |
+|---|---|---|
+| **Male victim charged by police after being injured** | **16%** | Department of Justice Canada |
+| Female victim charged by police after being injured | **1%** | Department of Justice Canada |
+| Partner of injured man charged | 54% | Department of Justice Canada |
+| Partner of injured woman charged | **90%** | Department of Justice Canada |
+| Dedicated IPV shelters for men in Canada | **ZERO** | Office of the Federal Ombudsperson for Victims of Crime |
+
+**Source**: Department of Justice Canada, *Male Survivors of Intimate Partner Violence in Canada*; Office of the Federal Ombudsperson for Victims of Crime.
+
+**What this means**: A man who gets beaten by his partner has a **16% chance of being charged himself.** A woman in the same situation has a 1% chance. When a man is injured, his partner has only a 54% chance of being charged. When a woman is injured, her partner has a 90% chance. The system treats male victimhood as suspicious and female victimhood as automatic.
+
+There are **zero dedicated IPV shelters for men in Canada.** Not one. A father fleeing domestic violence with his children has nowhere to go.
+
+### Police Tools Are Gender-Biased
+
+The Ontario Domestic Assault Risk Assessment (ODARA) — the standard police risk assessment tool — uses **feminine pronouns** for victims and refers to perpetrators as "wife assaulters." The tool was not designed to identify male victims. It was designed to assume they don't exist.
+
+**Source**: Department of Justice Canada.
+
+### Custody Impact
+
+| Statistic | Data |
+|---|---|
+| Mothers awarded primary custody | **55%** |
+| Fathers awarded primary custody | **7%** |
+| Shared custody | 28% |
+
+Fathers who are victims of domestic violence **avoid seeking safety** because they fear losing custody. The system forces them to choose between their safety and their children.
+
+---
+
+## THE TAKEAWAY (UPDATED)
+
+1. **Mothers are the primary perpetrators of child maltreatment** — 75% of biological parent maltreatment (NIS-4, DHHS)
+2. **The most dangerous household is a single parent with a new partner** — 8x higher maltreatment rate
+3. **Fatherlessness is statistically catastrophic** — 85% of youth in prison, 71% of dropouts, 5x suicide rate
+4. **Shared custody produces outcomes equal to or better than sole custody** — Department of Justice Canada
+5. **Child support has zero accountability** — no province requires proof of how money is spent
+6. **False allegations skyrocket in custody disputes** — 36-56% unsubstantiated vs. 2-8% in normal contexts
+7. **Male DV victims have a 16% chance of being charged themselves** — Department of Justice Canada
+8. **Zero dedicated shelters for male DV victims in Canada** — not one
+9. **Fathers get primary custody 7% of the time** — mothers get 55%
+
+These aren't opinions. These are government studies, peer-reviewed research, and official statistics. Print them. Cite them. Bring them to court.
+
 Tell us what you're fighting. We're building this for YOU.
 
 ---
