@@ -32,7 +32,7 @@ Professor Macfarlane didn't mince words:
 
 > *"They're pushing on an open door because they know there's already a bias here."*
 
-Let that sink in. Lawyers are **deliberately targeting** self-represented parties with summary judgment motions because they know the success rate is near-guaranteed. In some cases, people lost because they "literally left off a comma."
+Let that sink in. Lawyers are **deliberately targeting** self-represented parties with summary judgment motions because the data shows a 96% success rate. In some cases, people lost because they "literally left off a comma."
 
 This study came after the Supreme Court of Canada's landmark decision in **Hryniak v. Mauldin (2014 SCC)**, which expanded the courts' summary judgment powers. The intention was to improve access to justice. The reality? It gave lawyers a new weapon to use against people who can't afford lawyers.
 

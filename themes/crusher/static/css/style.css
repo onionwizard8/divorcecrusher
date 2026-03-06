@@ -1,13 +1,13 @@
 * { margin: 0; padding: 0; box-sizing: border-box; }
 
 :root {
-  --bg: #0a0a0a;
-  --text: #e0e0e0;
-  --accent: #ff3333;
-  --accent2: #ff6600;
-  --muted: #888;
-  --card-bg: #141414;
-  --border: #222;
+  --bg: #0f1117;
+  --text: #d4d4d8;
+  --accent: #d4a03c;
+  --accent2: #e8c368;
+  --muted: #71717a;
+  --card-bg: #18181b;
+  --border: #27272a;
 }
 
 body {
