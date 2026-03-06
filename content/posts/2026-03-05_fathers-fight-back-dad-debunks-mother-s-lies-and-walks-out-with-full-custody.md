@@ -13,7 +13,7 @@ generated: 2026-03-05T21:20:56.729386
 
 **FATHERS FIGHT BACK: DAD DEBUNKS MOTHER'S LIES AND WALKS OUT WITH FULL CUSTODY**
 
-*By the time you finish this article, you'll know exactly how to expose parental alienation and win full custody.*
+*Here's what courts have found when parental alienation was proven — and what those fathers did to expose it.*
 
 ---
 

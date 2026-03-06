@@ -15,7 +15,7 @@ generated: 2026-03-05T21:25:33.350555
 
 #### Hook
 
-Are you a dad who feels like the court system is rigged against you? Do you feel like your ex is using every trick in the book to keep you from your kids? You're not alone. But here’s the truth: you have the power to turn the tide. Self-represented dads have won custody battles by arming themselves with cold, hard facts and the law. Let’s dive into how you can do the same.
+Are you a dad who feels like the court system is rigged against you? Do you feel like your ex is using every trick in the book to keep you from your kids? You're not alone. But here’s the truth: self-represented dads HAVE won custody battles by arming themselves with cold, hard facts and the law. Here’s what those cases looked like.
 
 #### The Setup
 
@@ -31,7 +31,7 @@ R. v. Aghabeigi involved a complex situation where the appellant’s actions wer
 
 #### The Weapon
 
-To win your custody battle, you need to arm yourself with the right tools. Here’s how you can do it:
+Here’s what fathers in similar situations have done to build their cases:
 
 **1. Understand the Legal Framework**
 
@@ -58,7 +58,7 @@ Winning your custody battle as a self-represented dad is not impossible. It requ
 3. **Prepare Your Case**: Organize your evidence and prepare your opening and closing statements. Practice presenting your case to ensure you are confident and clear in court.
 4. **Seek Support**: Consider joining support groups or forums for self-represented dads. Share your experiences and learn from others who have been through similar battles.
 
-By following these steps, you can turn the tide and win custody of your child. The system may seem daunting, but with the right knowledge and preparation, you can emerge victorious.
+These are the steps fathers have used to build strong cases. The system is daunting, but preparation and documentation are what courts have responded to in the cases above.
 
 #### Call for Feedback
 
