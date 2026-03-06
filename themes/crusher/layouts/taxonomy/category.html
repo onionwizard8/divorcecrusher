@@ -1,0 +1,13 @@
+{{ define "main" }}
+<h1 class="category-title">{{ .Title | upper }}</h1>
+{{ .Content }}
+<div class="post-count">{{ len .Pages }} articles in this category</div>
+{{ range .Pages.ByDate.Reverse }}
+<article class="post-preview">
+  <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+  <time>{{ .Date.Format "January 2, 2006" }}</time>
+  <p>{{ .Summary }}</p>
+  <a href="{{ .Permalink }}" class="read-more">Read the full breakdown →</a>
+</article>
+{{ end }}
+{{ end }}

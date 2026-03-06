@@ -2,7 +2,7 @@
 title: "HOW TO REPORT A LAWYER: THE COMPLETE ROADMAP FOR FILING COMPLAINTS AGAINST OPPOSING COUNSEL"
 slug: "how-to-report-a-lawyer"
 date: 2026-03-05
-category: lawyer misconduct
+category: "Lawyers Reported"
 tags: ["lawyer misconduct", "complaints", "law society", "professional conduct", "sharp practice", "ethics"]
 photos_recalled: 5
 ---

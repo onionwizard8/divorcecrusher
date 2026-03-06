@@ -6,8 +6,20 @@
 </section>
 
 <section class="latest">
+  <h2>Battlefields</h2>
+  <div class="categories-grid">
+    {{ range .Site.Taxonomies.categories }}
+    <a href="{{ .Page.Permalink }}" class="category-card">
+      <h2>{{ .Page.Title | upper }}</h2>
+      <span class="count">{{ .Count }} articles</span>
+    </a>
+    {{ end }}
+  </div>
+</section>
+
+<section class="latest">
   <h2>Latest Intel</h2>
-  {{ range first 10 (where .Site.RegularPages "Section" "posts") }}
+  {{ range first 10 .Site.RegularPages.ByDate.Reverse }}
   <article class="post-preview">
     <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
     <time>{{ .Date.Format "January 2, 2006" }}</time>

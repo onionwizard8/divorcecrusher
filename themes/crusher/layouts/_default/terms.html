@@ -1,0 +1,11 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+<div class="categories-grid">
+{{ range .Pages }}
+<a href="{{ .Permalink }}" class="category-card">
+  <h2>{{ .Title | upper }}</h2>
+  <span class="count">{{ len .Pages }} articles</span>
+</a>
+{{ end }}
+</div>
+{{ end }}

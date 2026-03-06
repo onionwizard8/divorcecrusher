@@ -2,7 +2,7 @@
 title: "FATHER'S FIRE ENGULFS MOTHER'S CASE — COURTROOM RICOCHET KILLS SHODDY ARGUMENTS"
 slug: "father-s-fire-engulfs-mother-s-case-courtroom-ricochet-kills-shoddy-arguments"
 date: 2026-03-05
-category: self-represented dad wins custody
+category: "Self-Represented Dad Wins"
 tags: ["self-represented", "dad", "wins", "custody"]
 photos_recalled: 8
 tokens: 966

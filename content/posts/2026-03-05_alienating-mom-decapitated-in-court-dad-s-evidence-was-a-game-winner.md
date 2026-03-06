@@ -2,7 +2,7 @@
 title: "ALIENATING MOM DECAPITATED IN COURT — DAD'S EVIDENCE WAS A GAME-WINNER"
 slug: "alienating-mom-decapitated-in-court-dad-s-evidence-was-a-game-winner"
 date: 2026-03-05
-category: parental alienation
+category: "Parental Alienation Nexus"
 tags: ["parental", "alienation"]
 photos_recalled: 8
 tokens: 1200

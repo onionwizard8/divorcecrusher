@@ -2,7 +2,7 @@
 title: "DISCLOSURE FAILURES? DAD UNLEASHES DESTRUCTION WITH IRONY AND EXPOSES TRUTH"
 slug: "disclosure-failures-dad-unleashes-destruction-with-irony-and-exposes-truth"
 date: 2026-03-05
-category: disclosure failures
+category: "Toxic Ex Wives Defeated"
 tags: ["disclosure", "failures"]
 photos_recalled: 8
 tokens: 1165

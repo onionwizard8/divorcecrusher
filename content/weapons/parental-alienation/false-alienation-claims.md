@@ -2,7 +2,7 @@
 title: "SHE SAYS YOU'RE ALIENATING THE KIDS? HERE'S HOW COURTS HAVE DESTROYED FALSE PARENTAL ALIENATION CLAIMS"
 slug: "false-alienation-claims-destroyed"
 date: 2026-03-05
-category: parental alienation
+category: "Parental Alienation Nexus"
 tags: ["parental", "alienation", "false claims", "defense", "Williamson"]
 photos_recalled: 6
 ---

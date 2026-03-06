@@ -2,7 +2,7 @@
 title: "MOTHER'S NIGHTMARE COMES TRUE — DAD UNCOVERS TRUTH, WALKS AWAY WITH CUSTODY"
 slug: "mother-s-nightmare-comes-true-dad-uncovers-truth-walks-away-with-custody"
 date: 2026-03-05
-category: custody reversal
+category: "Toxic Ex Wives Defeated"
 tags: ["custody", "reversal"]
 photos_recalled: 8
 tokens: 1026

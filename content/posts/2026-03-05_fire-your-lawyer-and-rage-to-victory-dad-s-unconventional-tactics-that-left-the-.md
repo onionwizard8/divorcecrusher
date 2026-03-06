@@ -2,7 +2,7 @@
 title: "FIRE YOUR LAWYER AND RAGE TO VICTORY: DAD'S UNCONVENTIONAL TACTICS THAT LEFT THE COURT STUNNED"
 slug: "fire-your-lawyer-and-rage-to-victory-dad-s-unconventional-tactics-that-left-the-"
 date: 2026-03-05
-category: self-represented dad wins
+category: "Self-Represented Dad Wins"
 tags: ["self-represented", "dad", "wins"]
 photos_recalled: 8
 tokens: 986

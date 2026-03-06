@@ -2,7 +2,7 @@
 title: "MOTHER'S CRAZY CONSPIRACY FALLS APART IN COURT — DAD'S TRUTH RISES"
 slug: "mother-s-crazy-conspiracy-falls-apart-in-court-dad-s-truth-rises"
 date: 2026-03-05
-category: false allegations exposed
+category: "Toxic Ex Wives Defeated"
 tags: ["false", "allegations", "exposed"]
 photos_recalled: 8
 tokens: 883

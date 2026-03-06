@@ -2,7 +2,7 @@
 title: "FATHERS FIGHT BACK: DAD DEBUNKS MOTHER'S LIES AND WALKS OUT WITH FULL CUSTODY"
 slug: "fathers-fight-back-dad-debunks-mother-s-lies-and-walks-out-with-full-custody"
 date: 2026-03-05
-category: parental alienation
+category: "Parental Alienation Nexus"
 tags: ["parental", "alienation"]
 photos_recalled: 8
 tokens: 1110

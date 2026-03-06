@@ -2,7 +2,7 @@
 title: "THE SYSTEM IS RIGGED: 96% OF SELF-REPRESENTED PARTIES LOSE ON SUMMARY JUDGMENT — HERE'S HOW TO NOT BE ONE OF THEM"
 slug: "system-rigged-96-percent-self-represented-lose-summary-judgment"
 date: 2026-03-05
-category: self-represented litigants
+category: "Self-Represented Dad Wins"
 tags: ["self-represented", "SRL", "summary judgment", "bias", "procedural fairness", "Pintea"]
 photos_recalled: 4
 ---
