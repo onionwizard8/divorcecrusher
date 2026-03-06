@@ -43,6 +43,14 @@ Canadian Judicial Council. 12 pages. Unanimously endorsed by the Supreme Court o
 **[Nova Scotia Barristers' Society — Code of Professional Conduct](/studies/NS-Code-Professional-Conduct.pdf)**
 NSBS. 105 pages. Based on the Federation of Law Societies Model Code used across Canada. Contains the exact rules for filing complaints against lawyers: 5.1-1, 5.1-2, 5.1-5, 7.2-1, 7.2-2, 7.2-4, 7.1-3.
 
+### Child Welfare and False Allegations
+
+**[Malicious Referrals, Custody Disputes and Police Involvement in the Canadian Child Welfare System — CIS-2008 Data Tables (DoJ Canada)](/studies/DoJ-Malicious-Referrals-CIS-2008.pdf)**
+Department of Justice Canada. Data from the 2008 Canadian Incidence Study. 12.4% of all CFS investigations involved custody disputes. 10% of custody-related reports were intentionally false. Crown copyright — reproduced under fair dealing.
+
+**[False Allegations of Abuse and Neglect — Information Sheet #193 (CWRP)](/studies/CWRP-False-Allegations-Info-Sheet-193.pdf)**
+Canadian Child Welfare Research Portal. Based on Trocmé & Bala (2005). 4% overall false rate, 12% in custody disputes, 25% from anonymous sources. Reproduced under fair dealing for research and education.
+
 ---
 
 ## Online Sources (Not Available for Download)
