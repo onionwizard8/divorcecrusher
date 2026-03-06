@@ -1,5 +1,5 @@
 ---
-title: "THE SYSTEM IS RIGGED: 96% OF SELF-REPRESENTED PARTIES LOSE ON SUMMARY JUDGMENT — HERE'S HOW TO NOT BE ONE OF THEM"
+title: "IS THE SYSTEM RIGGED? 96% OF SELF-REPRESENTED PARTIES LOSE ON SUMMARY JUDGMENT — HERE'S HOW TO NOT BE ONE OF THEM"
 slug: "system-rigged-96-percent-self-represented-lose-summary-judgment"
 date: 2026-03-05
 category: "Self-Represented Dad Wins"
@@ -7,15 +7,17 @@ tags: ["self-represented", "SRL", "summary judgment", "bias", "procedural fairne
 photos_recalled: 4
 ---
 
-# THE SYSTEM IS RIGGED: 96% OF SELF-REPRESENTED PARTIES LOSE ON SUMMARY JUDGMENT — HERE'S HOW TO NOT BE ONE OF THEM
+# IS THE SYSTEM RIGGED? 96% OF SELF-REPRESENTED PARTIES LOSE ON SUMMARY JUDGMENT — HERE'S HOW TO NOT BE ONE OF THEM
 
-*A university study found that when lawyers bring summary judgment motions against self-represented parties, they win 96% of the time. Here's what the courts have said about it — and what you need to know to survive.*
+*A university study found that when lawyers bring summary judgment motions against self-represented parties, they win 96% of the time. Are they getting cases thrown out over a comma? Here's what the courts have said about it.*
 
 ---
 
 ### HOOK
 
-You're representing yourself in family court. You can't afford a lawyer. You think the truth will speak for itself. Then her lawyer files a summary judgment motion. You don't fully understand what it is. You respond late, or wrong, or not at all. The judge rules against you. Your case is over before it started. **This happens 96% of the time.** That's not a guess. That's from a study by the National Self-Represented Litigants Project at the University of Windsor.
+Is your ex-wife and her lawyer destroying your life? Are they rendering you unable to sleep, unable to focus, unable to function — while they use the court process to separate you from your children? Has the process itself become the punishment?
+
+And then her lawyer files a summary judgment motion. You don't fully understand what it is. You respond late, or wrong, or not at all. The judge rules against you. Your case is over before it started. **This happens 96% of the time.** That's not a guess. That's from a study by the National Self-Represented Litigants Project at the University of Windsor. Are they getting your case thrown out over a comma?
 
 ---
 
@@ -32,9 +34,9 @@ Professor Macfarlane didn't mince words:
 
 > *"They're pushing on an open door because they know there's already a bias here."*
 
-Let that sink in. Lawyers are **deliberately targeting** self-represented parties with summary judgment motions because the data shows a 96% success rate. In some cases, people lost because they "literally left off a comma."
+Let that sink in. Are lawyers **deliberately targeting** self-represented parties with summary judgment motions because the data shows a 96% success rate? Are fathers losing their children because they "literally left off a comma"? Is a procedural technicality worth more than a child's relationship with their father?
 
-This study came after the Supreme Court of Canada's landmark decision in **Hryniak v. Mauldin (2014 SCC)**, which expanded the courts' summary judgment powers. The intention was to improve access to justice. The reality? It gave lawyers a new weapon to use against people who can't afford lawyers.
+This study came after the Supreme Court of Canada's landmark decision in **Hryniak v. Mauldin (2014 SCC)**, which expanded the courts' summary judgment powers. The intention was to improve access to justice. But did it actually hand lawyers a loaded weapon to use against people who can't afford lawyers? Did a law designed to help the unrepresented become the very tool used to destroy them?
 
 ---
 
@@ -55,7 +57,7 @@ The Supreme Court of Canada reversed it all. The Court held that **a litigant ca
 3. Reinforce the **judicial duty to facilitate access to justice** for SRLs
 4. Make clear that judicial accommodation does **NOT exempt SRLs from procedural obligations**
 
-**What this means for you**: If a judge penalizes you for a procedural misstep you didn't know about, **Pintea v. Johns** is your authority. The SCC says you must be given actual knowledge of what's required before you can be held in contempt for not doing it.
+**What does this mean?** What happens when a judge penalizes someone for a procedural misstep they didn't know about? In *Pintea*, the SCC held that a litigant must be given actual knowledge of what's required before being held in contempt for not doing it.
 
 #### **Jonsson v. Lymer, 2020 ABCA 167** — The Limits Are Real
 
@@ -69,7 +71,7 @@ And:
 
 > *"Rule 1.1(2) of the Alberta Rules of Court states that all persons who come before the Court — whether self-represented or represented by counsel — are subject to the same procedural obligations. There is no excuse for abuse of court procedures."*
 
-**What this means for you**: Self-representation is not a shield. You MUST comply with court orders. You MUST meet disclosure deadlines. You MUST respond to interrogatories. The court will accommodate your lack of legal knowledge to a point — but it will not excuse deliberate non-compliance.
+**What does this mean?** Self-representation is not a shield. The court accommodated procedural inexperience to a point — but did not excuse deliberate non-compliance with court orders, disclosure deadlines, or interrogatories.
 
 #### **DJ v. SN, 2025 ABKB 214** — How Disclosure Failures Get Destroyed
 
@@ -93,51 +95,46 @@ The devastating conclusion:
 
 ---
 
-### THE WEAPON: HOW TO SURVIVE AS A SELF-REPRESENTED LITIGANT
+### WHAT DID THESE CASES REVEAL? WHAT DO SELF-REPRESENTED LITIGANTS NEED TO KNOW?
 
-Based on these cases and the Umadia analysis (2025 CanLIIDocs 1372), here's what self-represented fathers need to know:
+Based on these cases and the Umadia analysis (2025 CanLIIDocs 1372), what patterns emerge?
 
-#### 1. Know the Canadian Judicial Council Principles
+#### 1. The Canadian Judicial Council Principles Exist
 
-The SCC endorsed them in **Pintea v. Johns**. They exist. Judges are supposed to follow them. If you feel you're being railroaded procedurally, you can reference these principles directly:
+The SCC endorsed them in **Pintea v. Johns**. Are judges following them? The principles are publicly available. In *Pintea*, the court referenced them directly. A self-represented litigant in that case cited:
 
-*"The Supreme Court of Canada in Pintea v. Johns, 2017 SCC 23 unanimously endorsed the Canadian Judicial Council's Statement of Principles on Self-Represented Litigants and Accused Persons. I respectfully request the Court apply those principles to accommodate my procedural inexperience while I comply with the Court's requirements."*
+*"The Supreme Court of Canada in Pintea v. Johns, 2017 SCC 23 unanimously endorsed the Canadian Judicial Council's Statement of Principles on Self-Represented Litigants and Accused Persons."*
 
-#### 2. Never Ignore a Court Order
+#### 2. What Happened When a Litigant Ignored Court Orders?
 
-**Jonsson v. Lymer** makes it crystal clear: self-representation does not excuse non-compliance. If you receive a court order:
-- Read it immediately
-- Note every deadline
-- Comply with every requirement
-- If you don't understand something, contact the court registry or a duty counsel
+**Jonsson v. Lymer** answered this clearly: self-representation did not excuse non-compliance. The court noted that court orders, disclosure deadlines, and interrogatory responses are not optional — regardless of representation status.
 
-#### 3. Weaponize Disclosure
+#### 3. What Happened When Disclosure Was Deficient?
 
-If the other side isn't disclosing, cite **DJ v. SN** paragraph by paragraph. File a motion to compel disclosure. Quote Justice Eamon's exact words. The court has zero patience for "I don't have the documents."
+In **DJ v. SN**, Justice Eamon found the mother's disclosure showed "disdain for the Court's authority." The court's exact quotes are available in the decision. What happens when a party files a motion to compel disclosure citing this case?
 
-#### 4. Prepare for Summary Judgment
+#### 4. What Happens on Summary Judgment?
 
-With a 96% success rate against SRLs, expect the other side to bring this motion. When they do:
-- **Respond on time** — missing the deadline is nearly automatic loss
-- **File a proper affidavit** with supporting evidence
-- **Cite Hryniak v. Mauldin** — the test requires a genuine issue for trial
-- **Argue that credibility issues require a trial** — summary judgment is inappropriate where the judge needs to assess witness credibility
+With a 96% success rate against SRLs, is the other side likely to bring this motion? What did courts say about the requirements?
+- **Hryniak v. Mauldin** — the test requires a genuine issue for trial
+- Credibility issues may require a trial — summary judgment may be inappropriate where the judge needs to assess witness credibility
+- Responding on time is critical — cases have been lost on missed deadlines alone
 
-#### 5. File Your Change of Address
+#### 5. Did Pintea v. Johns Really Happen Over a Change of Address?
 
-It sounds absurd, but **Pintea v. Johns** happened because a man didn't file a form. Know your court's administrative requirements. Update your address. Check your court file regularly. Assume nothing is automatic.
+It sounds absurd, but it did. A man lost his claim and was ordered to pay **$83,000 in costs** because he didn't file a change of address form — because he didn't know he had to. The SCC reversed it. What does this say about administrative requirements?
 
 ---
 
 ### THE TAKEAWAY
 
-1. **The 96% stat is real** — lawyers are weaponizing summary judgment against SRLs. Be ready for it.
-2. **Pintea v. Johns, 2017 SCC 23** is your constitutional shield — the SCC endorsed principles protecting SRL fairness
-3. **Jonsson v. Lymer, 2020 ABCA 167** is the warning — self-representation doesn't excuse non-compliance
-4. **DJ v. SN, 2025 ABKB 214** is your disclosure weapon — cite Justice Eamon's exact quotes when the other side hides documents
-5. **Every procedural step matters** — file on time, respond completely, document everything
+1. **The 96% stat is real** — are lawyers weaponizing summary judgment against SRLs? The data suggests so.
+2. **Pintea v. Johns, 2017 SCC 23** — the SCC endorsed principles protecting SRL fairness
+3. **Jonsson v. Lymer, 2020 ABCA 167** — self-representation did not excuse non-compliance
+4. **DJ v. SN, 2025 ABKB 214** — what happened when the court addressed disclosure failures? Justice Eamon's exact quotes are in the case
+5. **Every procedural step matters** — cases have turned on deadlines, forms, and completeness of responses
 
-The system has a bias. The numbers prove it. But the case law also shows that courts are evolving. Use it.
+Does the system have a bias? The numbers suggest it does. But the case law also shows that courts are evolving.
 
 Tell us what you're fighting. We're building this for YOU.
 

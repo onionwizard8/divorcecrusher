@@ -15,7 +15,7 @@ photos_recalled: 6
 
 ### HOOK
 
-You're staring at an affidavit at 2am. Your ex — or her lawyer — is claiming you've been "alienating" the children. Turning them against her. Poisoning their minds. You know it's bullshit. The kids don't want to see her because of what SHE did, not because of anything you said. But now you're the one on trial for it. Sound familiar? You're not alone. And there's case law that tears this apart.
+Is your ex-wife and her lawyer destroying your life and rendering you unable to sleep? Are they accusing YOU of alienating the children — when the children's own feelings have a rational basis? Are they using a psychologist's untested report to take your kids away? Are you staring at an affidavit at 2am wondering how any of this is legal? Why aren't courts required to distinguish alienation from estrangement before ripping children from their fathers?
 
 ### THE SETUP: HOW FALSE PA CLAIMS ARE WEAPONIZED
 
@@ -31,7 +31,7 @@ The problem? Courts have historically accepted these reports at face value. Unti
 
 ### THE KEY DISTINCTION: ALIENATION VS. ESTRANGEMENT
 
-This is the most important legal concept in your defense. Learn it. Memorize it. Cite it.
+This is the most important legal concept in a false alienation defense. Why doesn't every father know about this?
 
 In **Williamson v. Williamson, 2016 BCCA 87** — the leading British Columbia case on parental alienation, cited in **100+ court decisions across Canada** — the BC Court of Appeal drew a bright line:
 
@@ -114,11 +114,11 @@ If the children's reluctance to see their mother has a rational basis, document 
 
 ### THE TAKEAWAY
 
-1. **Know Williamson v. Williamson cold** — it's the leading case and your primary shield
-2. **The alienation/estrangement distinction is everything** — if the children's feelings are rational, it's not alienation
-3. **Challenge every expert** — credentials, methodology, cross-examination
-4. **Document relentlessly** — your co-parenting efforts, the children's statements, the mother's actual behavior
-5. **Don't let untested reports drive custody orders** — demand evidentiary hearings, not chambers applications
+1. **Why isn't Williamson v. Williamson taught to every father?** — it's the leading case, cited 100+ times across Canada
+2. **Why doesn't every court distinguish alienation from estrangement?** — if the children's feelings are rational, is it alienation at all?
+3. **Are expert credentials being scrutinized?** — or are unchallenged reports driving custody decisions?
+4. **What happens when a father documents co-parenting efforts, the children's statements, and the mother's actual behavior?**
+5. **Should untested expert reports drive custody orders?** — or should there be evidentiary hearings with cross-examination?
 
 Tell us what you're fighting. We're building this for YOU.
 

@@ -8,7 +8,7 @@ tags: ["studies", "research", "statistics", "sources", "downloads"]
 
 # SOURCE LIBRARY
 
-*Every statistic on this site comes from a real study. Here they are. Download them. Read them. Bring them to court. Nobody can take these down — they're public documents.*
+*Every statistic on this site comes from a real study. Here they are — publicly available for anyone to download, read, and reference. These are public documents.*
 
 ---
 
@@ -38,7 +38,7 @@ National Self-Represented Litigants Project. 23 pages. Province-by-province guid
 ### Professional Conduct and Judicial Principles
 
 **[Canadian Judicial Council — Statement of Principles on Self-Represented Litigants and Accused Persons (2006)](/studies/CJC-Statement-of-Principles-SRL-2006.pdf)**
-Canadian Judicial Council. 12 pages. Unanimously endorsed by the Supreme Court of Canada in Pintea v. Johns, 2017 SCC 23. The rules judges are SUPPOSED to follow when dealing with self-represented parties.
+Canadian Judicial Council. 12 pages. Unanimously endorsed by the Supreme Court of Canada in Pintea v. Johns, 2017 SCC 23. Are these the rules judges are supposed to follow when dealing with self-represented parties?
 
 **[Nova Scotia Barristers' Society — Code of Professional Conduct](/studies/NS-Code-Professional-Conduct.pdf)**
 NSBS. 105 pages. Based on the Federation of Law Societies Model Code used across Canada. Contains the exact rules for filing complaints against lawyers: 5.1-1, 5.1-2, 5.1-5, 7.2-1, 7.2-2, 7.2-4, 7.1-3.

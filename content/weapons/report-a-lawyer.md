@@ -15,9 +15,9 @@ photos_recalled: 5
 
 ### HOOK
 
-Her lawyer just lied to the court. Or bullied you in a hallway. Or filed something they knew was misleading. Or took advantage of a procedural technicality to crush your case on a comma. You're standing there thinking: "Can they just DO that?"
+Did her lawyer just lie to the court? Did they bully you in a hallway? Did they file something they knew was misleading? Did they take advantage of a procedural technicality to get your case thrown out over a comma? Are they getting away with it because nobody told you there's a complaints process?
 
-No. They can't. There are rules. And there is a complaints process. And nobody told you about it because the system doesn't want you to use it.
+Why doesn't the system tell you about the rules lawyers are supposed to follow? Why doesn't anyone explain that you — as a member of the public — can file a complaint for free?
 
 This article is the roadmap.
 
@@ -54,7 +54,7 @@ A lawyer must NOT:
 - **(m)** Needlessly **abuse, hector or harass** a witness
 - **(o)** Needlessly **inconvenience** a witness
 
-**What this means**: If her lawyer is filing motions they know are baseless just to drain your resources, coaching witnesses to mislead, or misrepresenting facts to the court — each of these is a specific rule violation you can cite.
+**What does this mean?** Is the opposing lawyer filing motions they know are baseless just to drain your resources? Are they coaching witnesses to mislead, or misrepresenting facts to the court? Each of these would be a specific rule violation.
 
 #### Rule 5.1-5 — Courtesy and Civility
 
@@ -74,7 +74,7 @@ Commentary:
 
 > *"Any ill feeling that may exist or be engendered between clients, particularly during litigation, should never be allowed to influence lawyers in their conduct and demeanour."*
 
-**What this means**: Your ex hates you. That's irrelevant. Her lawyer is required to treat you with courtesy regardless. If they're hostile, aggressive, or retaliatory because of the personal conflict between you and your ex — they're violating 7.2-1.
+**What does this mean?** Is the opposing lawyer allowing personal conflict between the parties to influence their conduct? Are they being hostile, aggressive, or retaliatory toward you? If so, are they violating 7.2-1?
 
 #### Rule 7.2-2 — No Sharp Practice
 
@@ -205,7 +205,7 @@ Here are concrete situations that warrant a complaint:
 
 ### IMPORTANT NOTES
 
-**A complaint is NOT a substitute for legal arguments in court.** If the lawyer's conduct is affecting your case, you should also:
+**A complaint is NOT a substitute for legal arguments in court.** If the lawyer's conduct is affecting the case, the following options may also be available:
 - Raise the conduct with the judge during proceedings
 - File a motion addressing the specific conduct
 - Request costs if the conduct caused unnecessary litigation
